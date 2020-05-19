@@ -1,0 +1,12 @@
+- library: 
+numpy
+pickle
+pillow
+opencv-python
+opencv-contrib-python
+
+- train the model: 
+python face_train.py
+
+- run the model: 
+python face.py
